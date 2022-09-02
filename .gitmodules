@@ -1,0 +1,15 @@
+[submodule "vusec/memsentry"]
+	path = vusec/memsentry
+	url = https://github.com/vusec/memsentry.git
+[submodule "hedayati/hodor"]
+	path = hedayati/hodor
+	url = https://github.com/hedayati/hodor.git
+[submodule "vahldiek/erim"]
+	path = vahldiek/erim
+	url = https://gitlab.mpi-sws.org/vahldiek/erim.git
+[submodule "IAIK/Donky"]
+	path = IAIK/Donky
+	url = https://github.com/IAIK/Donky.git
+[submodule "pku-pitfalls"]
+	path = pku-pitfalls
+	url = https://github.com/VolSec/pku-pitfalls.git
