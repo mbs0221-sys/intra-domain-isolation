@@ -10,6 +10,12 @@
 [submodule "IAIK/Donky"]
 	path = IAIK/Donky
 	url = https://github.com/IAIK/Donky.git
-[submodule "pku-pitfalls"]
-	path = pku-pitfalls
+[submodule "VolSec/pku-pitfalls"]
+	path = VolSec/pku-pitfalls
 	url = https://github.com/VolSec/pku-pitfalls.git
+[submodule "IAIK/Jenny"]
+	path = IAIK/Jenny
+	url = https://github.com/IAIK/Jenny.git
+[submodule "sslab-gatech/libmpk"]
+	path = sslab-gatech/libmpk
+	url = https://github.com/sslab-gatech/libmpk.git
