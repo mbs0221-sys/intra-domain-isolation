@@ -19,3 +19,30 @@
 [submodule "sslab-gatech/libmpk"]
 	path = sslab-gatech/libmpk
 	url = https://github.com/sslab-gatech/libmpk.git
+[submodule "ssrg-vt/MonGuard"]
+	path = ssrg-vt/MonGuard
+	url = https://github.com/ssrg-vt/MonGuard.git
+[submodule "iskios"]
+	path = iskios
+	url = https://github.com/URSec/iskios.git
+[submodule "libhermitMPK"]
+	path = libhermitMPK
+	url = https://github.com/ssrg-vt/libhermitMPK.git
+[submodule "The-Cerberus-Project"]
+	path = The-Cerberus-Project
+	url = https://github.com/ku-leuven-msec/The-Cerberus-Project.git
+[submodule "enclosures"]
+	path = enclosures
+	url = https://github.com/aghosn/enclosures.git
+[submodule "PKRU-Safe"]
+	path = PKRU-Safe
+	url = https://github.com/securesystemslab/PKRU-Safe.git
+[submodule "galeed"]
+	path = galeed
+	url = https://github.com/mit-ll/galeed.git
+[submodule "faastlane"]
+	path = faastlane
+	url = https://github.com/csl-iisc/faastlane.git
+[submodule "CubicleOS"]
+	path = CubicleOS
+	url = https://github.com/lsds/CubicleOS.git
