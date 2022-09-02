@@ -46,3 +46,9 @@
 [submodule "CubicleOS"]
 	path = CubicleOS
 	url = https://github.com/lsds/CubicleOS.git
+[submodule "xom-switch"]
+	path = xom-switch
+	url = https://github.com/intel/xom-switch.git
+[submodule "mpkalloc"]
+	path = mpkalloc
+	url = https://github.com/BUseclab/mpkalloc.git
