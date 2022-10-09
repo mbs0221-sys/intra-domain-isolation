@@ -52,3 +52,15 @@
 [submodule "mpkalloc"]
 	path = mpkalloc
 	url = https://github.com/BUseclab/mpkalloc.git
+[submodule "awesome-mpk"]
+	path = awesome-mpk
+	url = git@github.com:mbs0221/awesome-mpk.git
+[submodule "Dissertation-Public"]
+	path = Dissertation-Public
+	url = git@github.com:ChristopherHammond13/Dissertation-Public.git
+[submodule "BUseclab/mpkalloc"]
+	path = BUseclab/mpkalloc
+	url = https://github.com/BUseclab/mpkalloc.git
+[submodule "MonGuard"]
+	path = MonGuard
+	url = https://github.com/ssrg-vt/MonGuard.git
