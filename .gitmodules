@@ -19,48 +19,72 @@
 [submodule "sslab-gatech/libmpk"]
 	path = sslab-gatech/libmpk
 	url = https://github.com/sslab-gatech/libmpk.git
-[submodule "ssrg-vt/MonGuard"]
-	path = ssrg-vt/MonGuard
-	url = https://github.com/ssrg-vt/MonGuard.git
 [submodule "iskios"]
-	path = iskios
+	path = URSec/iskios
 	url = https://github.com/URSec/iskios.git
 [submodule "libhermitMPK"]
-	path = libhermitMPK
+	path = ssrg-vt/libhermitMPK
 	url = https://github.com/ssrg-vt/libhermitMPK.git
 [submodule "The-Cerberus-Project"]
-	path = The-Cerberus-Project
+	path = ku-leuven-msec/The-Cerberus-Project
 	url = https://github.com/ku-leuven-msec/The-Cerberus-Project.git
 [submodule "enclosures"]
-	path = enclosures
+	path = aghosn/enclosures
 	url = https://github.com/aghosn/enclosures.git
 [submodule "PKRU-Safe"]
-	path = PKRU-Safe
+	path = securesystemslab/PKRU-Safe
 	url = https://github.com/securesystemslab/PKRU-Safe.git
 [submodule "galeed"]
-	path = galeed
+	path = mit-ll/galeed
 	url = https://github.com/mit-ll/galeed.git
 [submodule "faastlane"]
-	path = faastlane
+	path = csl-iisc/faastlane
 	url = https://github.com/csl-iisc/faastlane.git
 [submodule "CubicleOS"]
-	path = CubicleOS
+	path = lsds/CubicleOS
 	url = https://github.com/lsds/CubicleOS.git
 [submodule "xom-switch"]
-	path = xom-switch
+	path = intel/xom-switch
 	url = https://github.com/intel/xom-switch.git
-[submodule "mpkalloc"]
-	path = mpkalloc
-	url = https://github.com/BUseclab/mpkalloc.git
-[submodule "awesome-mpk"]
-	path = awesome-mpk
-	url = git@github.com:mbs0221/awesome-mpk.git
 [submodule "Dissertation-Public"]
-	path = Dissertation-Public
+	path = ChristopherHammond13/Dissertation-Public
 	url = git@github.com:ChristopherHammond13/Dissertation-Public.git
 [submodule "BUseclab/mpkalloc"]
 	path = BUseclab/mpkalloc
 	url = https://github.com/BUseclab/mpkalloc.git
-[submodule "MonGuard"]
-	path = MonGuard
-	url = https://github.com/ssrg-vt/MonGuard.git
+[submodule "MOAT-Open"]
+	path = jwnhy/MOAT-Open
+	url = https://github.com/jwnhy/MOAT-Open.git
+[submodule "ssrg-vt/sMVX"]
+	path = ssrg-vt/sMVX
+	url = https://github.com/ssrg-vt/sMVX.git
+[submodule "ssrg-vt/MonGuard"]
+	path = ssrg-vt/MonGuard
+	url = git@github.com:ssrg-vt/MonGuard.git
+[submodule "erim"]
+	path = vahldiek/erim/erim
+	url = https://gitlab.mpi-sws.org/vahldiek/erim.git
+[submodule "secure-rewind-and-discard"]
+	path = EricssonResearch/secure-rewind-and-discard
+	url = https://github.com/EricssonResearch/secure-rewind-and-discard.git
+[submodule "sdradrustffi"]
+	path = EricssonResearch/sdradrustffi
+	url = https://github.com/EricssonResearch/sdradrustffi.git
+[submodule "memsentry"]
+	path = vusec/memsentry/memsentry
+	url = ./memsentry
+[submodule "ssrg-vt/MonGuard"]
+	path = ssrg-vt/MonGuard
+	url = git@github.com:ssrg-vt/MonGuard.git
+[submodule "lightning"]
+	path = danyangz/lightning
+	url = https://github.com/danyangz/lightning.git
+[submodule "vip"]
+	path = cosmoss-jigu/vip
+	url = git@github.com:cosmoss-jigu/vip.git
+[submodule "TENET"]
+	path = cosmoss-jigu/TENET
+	url = https://github.com/cosmoss-jigu/TENET.git
+[submodule "NoDrop"]
+	path = PKU-ASAL/NoDrop
+	url = ./NoDrop
