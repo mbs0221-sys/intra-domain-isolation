@@ -88,3 +88,9 @@
 [submodule "PKU-ASAL/PKUWA"]
 	path = PKU-ASAL/PKUWA
 	url = git@github.com:PKU-ASAL/PKUWA.git
+[submodule "seccompgeek/trust23-metsafe24"]
+	path = seccompgeek/trust23-metsafe24
+	url = git@github.com:seccompgeek/trust23-metsafe24.git
+[submodule "CharlyCst/mpk"]
+	path = CharlyCst/mpk
+	url = git@github.com:CharlyCst/mpk.git
