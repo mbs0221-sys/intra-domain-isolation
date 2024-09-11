@@ -59,23 +59,14 @@
 	path = ssrg-vt/sMVX
 	url = https://github.com/ssrg-vt/sMVX.git
 [submodule "ssrg-vt/MonGuard"]
-	path = ssrg-vt/MonGuard
+        path = ssrg-vt/MonGuard
 	url = git@github.com:ssrg-vt/MonGuard.git
-[submodule "erim"]
-	path = vahldiek/erim/erim
-	url = https://gitlab.mpi-sws.org/vahldiek/erim.git
 [submodule "secure-rewind-and-discard"]
 	path = EricssonResearch/secure-rewind-and-discard
 	url = https://github.com/EricssonResearch/secure-rewind-and-discard.git
 [submodule "sdradrustffi"]
 	path = EricssonResearch/sdradrustffi
 	url = https://github.com/EricssonResearch/sdradrustffi.git
-[submodule "memsentry"]
-	path = vusec/memsentry/memsentry
-	url = ./memsentry
-[submodule "ssrg-vt/MonGuard"]
-	path = ssrg-vt/MonGuard
-	url = git@github.com:ssrg-vt/MonGuard.git
 [submodule "lightning"]
 	path = danyangz/lightning
 	url = https://github.com/danyangz/lightning.git
@@ -88,3 +79,12 @@
 [submodule "NoDrop"]
 	path = PKU-ASAL/NoDrop
 	url = ./NoDrop
+[submodule "fastlane"]
+	path = fastlane/fastlane
+	url = https://github.com/fastlane/fastlane.git
+[submodule "IAIK/sgxjail"]
+	path = IAIK/sgxjail
+	url = git@github.com:IAIK/sgxjail.git
+[submodule "PKU-ASAL/PKUWA"]
+	path = PKU-ASAL/PKUWA
+	url = git@github.com:PKU-ASAL/PKUWA.git
