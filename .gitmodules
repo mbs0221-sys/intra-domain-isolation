@@ -94,3 +94,12 @@
 [submodule "CharlyCst/mpk"]
 	path = CharlyCst/mpk
 	url = git@github.com:CharlyCst/mpk.git
+[submodule "Smart-Contract-Protection-Method"]
+	path = MrCookieeeee/Smart-Contract-Protection-Method
+	url = git@github.com:MrCookieeeee/Smart-Contract-Protection-Method.git
+[submodule "MPK_research"]
+	path = CharlyCst/MPK_research
+	url = git@github.com:CharlyCst/MPK_research.git
+[submodule "CoMpk"]
+	path = arulthileeban/CoMpk
+	url = git@github.com:arulthileeban/CoMpk.git
