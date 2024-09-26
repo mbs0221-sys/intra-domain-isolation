@@ -1,1 +1,1 @@
-# Awesome Intel MPK related projects
+# Awesome intra-domain isolation related projects
