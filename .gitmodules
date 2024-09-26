@@ -1,35 +1,35 @@
 [submodule "vusec/memsentry"]
-	path = intra-process-isolation/memsentry
+	path = process/memsentry
 	url = https://github.com/vusec/memsentry.git
 [submodule "hedayati/hodor"]
-	path = intra-process-isolation/hodor
+	path = process/hodor
 	url = https://github.com/hedayati/hodor.git
 [submodule "vahldiek/erim"]
-	path = intra-process-isolation/erim
+	path = process/erim
 	url = https://gitlab.mpi-sws.org/vahldiek/erim.git
 [submodule "IAIK/Donky"]
-	path = intra-process-isolation/Donky
+	path = process/Donky
 	url = https://github.com/IAIK/Donky.git
 [submodule "VolSec/pku-pitfalls"]
-	path = intra-process-isolation/pku-pitfalls
+	path = process/pku-pitfalls
 	url = https://github.com/VolSec/pku-pitfalls.git
 [submodule "IAIK/Jenny"]
-	path = intra-process-isolation/Jenny
+	path = process/Jenny
 	url = https://github.com/IAIK/Jenny.git
 [submodule "sslab-gatech/libmpk"]
-	path = intra-process-isolation/libmpk
+	path = process/libmpk
 	url = https://github.com/sslab-gatech/libmpk.git
 [submodule "iskios"]
-	path = intra-unikernel-isolation/iskios
+	path = unikernel/iskios
 	url = https://github.com/URSec/iskios.git
 [submodule "libhermitMPK"]
-	path = intra-process-isolation/libhermitMPK
+	path = process/libhermitMPK
 	url = https://github.com/ssrg-vt/libhermitMPK.git
 [submodule "The-Cerberus-Project"]
-	path = intra-process-isolation/The-Cerberus-Project
+	path = process/The-Cerberus-Project
 	url = https://github.com/ku-leuven-msec/The-Cerberus-Project.git
 [submodule "enclosures"]
-	path = intra-process-isolation/enclosures
+	path = process/enclosures
 	url = https://github.com/aghosn/enclosures.git
 [submodule "PKRU-Safe"]
 	path = rust-ffi/PKRU-Safe
@@ -38,95 +38,95 @@
 	path = rust-ffi/galeed
 	url = https://github.com/mit-ll/galeed.git
 [submodule "faastlane"]
-	path = intra-process-isolation/faastlane
+	path = process/faastlane
 	url = https://github.com/csl-iisc/faastlane.git
 [submodule "CubicleOS"]
-	path = intra-unikernel-isolation/CubicleOS
+	path = unikernel/CubicleOS
 	url = https://github.com/lsds/CubicleOS.git
 [submodule "xom-switch"]
-	path = intra-process-isolation/xom-switch
+	path = process/xom-switch
 	url = https://github.com/intel/xom-switch.git
 [submodule "Dissertation-Public"]
-	path = intra-process-isolation/Dissertation-Public
+	path = process/Dissertation-Public
 	url = git@github.com:ChristopherHammond13/Dissertation-Public.git
 [submodule "BUseclab/mpkalloc"]
-	path = intra-process-isolation/mpkalloc
+	path = process/mpkalloc
 	url = https://github.com/BUseclab/mpkalloc.git
 [submodule "MOAT-Open"]
-	path = intra-kernel-isolation/MOAT-Open
+	path = kernel/MOAT-Open
 	url = https://github.com/jwnhy/MOAT-Open.git
 [submodule "ssrg-vt/sMVX"]
-	path = intra-process-isolation/sMVX
+	path = process/sMVX
 	url = https://github.com/ssrg-vt/sMVX.git
 [submodule "ssrg-vt/MonGuard"]
-	path = intra-process-isolation/MonGuard
+	path = process/MonGuard
 	url = git@github.com:ssrg-vt/MonGuard.git
 [submodule "secure-rewind-and-discard"]
-	path = intra-process-isolation/secure-rewind-and-discard
+	path = process/secure-rewind-and-discard
 	url = https://github.com/EricssonResearch/secure-rewind-and-discard.git
 [submodule "sdradrustffi"]
 	path = rust-ffi/sdradrustffi
 	url = https://github.com/EricssonResearch/sdradrustffi.git
 [submodule "lightning"]
-	path = intra-process-isolation/lightning
+	path = process/lightning
 	url = https://github.com/danyangz/lightning.git
 [submodule "vip"]
-	path = intra-process-isolation/vip
+	path = process/vip
 	url = git@github.com:cosmoss-jigu/vip.git
 [submodule "TENET"]
-	path = intra-process-isolation/TENET
+	path = process/TENET
 	url = https://github.com/cosmoss-jigu/TENET.git
 [submodule "NoDrop"]
-	path = intra-process-isolation/NoDrop
+	path = process/NoDrop
 	url = ./NoDrop
 [submodule "fastlane"]
-	path = intra-process-isolation/fastlane
+	path = process/fastlane
 	url = https://github.com/fastlane/fastlane.git
 [submodule "IAIK/sgxjail"]
-	path = intra-enclave-isolation/sgxjail
+	path = enclave/sgxjail
 	url = git@github.com:IAIK/sgxjail.git
 [submodule "PKU-ASAL/PKUWA"]
-	path = intra-process-isolation/PKUWA
+	path = process/PKUWA
 	url = git@github.com:PKU-ASAL/PKUWA.git
 [submodule "seccompgeek/trust23-metsafe24"]
 	path = rust-ffi/trust23-metsafe24
 	url = git@github.com:seccompgeek/trust23-metsafe24.git
 [submodule "CharlyCst/mpk"]
-	path = intra-process-isolation/mpk
+	path = process/mpk
 	url = git@github.com:CharlyCst/mpk.git
 [submodule "Smart-Contract-Protection-Method"]
-	path = intra-process-isolation/Smart-Contract-Protection-Method
+	path = process/Smart-Contract-Protection-Method
 	url = git@github.com:MrCookieeeee/Smart-Contract-Protection-Method.git
 [submodule "MPK_research"]
-	path = intra-process-isolation/MPK_research
+	path = process/MPK_research
 	url = git@github.com:CharlyCst/MPK_research.git
 [submodule "CoMpk"]
-	path = intra-process-isolation/CoMpk
+	path = process/CoMpk
 	url = git@github.com:arulthileeban/CoMpk.git
 [submodule "Toast"]
-	path = intra-process-isolation/Toast
+	path = process/Toast
 	url = https://github.com/TUM-DSE/Toast
 [submodule "ReCFA"]
-	path = intra-process-isolation/ReCFA
+	path = process/ReCFA
 	url = https://github.com/suncongxd/ReCFA.git
 [submodule "nodrop"]
-	path = intra-process-isolation/nodrop
+	path = process/nodrop
 	url = https://github.com/nodropforsecurity/nodrop.git
 [submodule "asplos22-ae"]
-	path = intra-unikernel-isolation/asplos22-ae
+	path = unikernel/asplos22-ae
 	url = https://github.com/project-flexos/asplos22-ae.git
 [submodule "BULKHEAD"]
-	path = intra-kernel-isolation/BULKHEAD
+	path = kernel/BULKHEAD
 	url = https://github.com/gyg128/BULKHEAD.git
 [submodule "intra-kernel-isolation/HAKC"]
-	path = intra-kernel-isolation/HAKC
+	path = kernel/HAKC
 	url = https://github.com/mit-ll/HAKC.git
 [submodule "intra-process-isolation/ConfLLVM"]
-	path = intra-process-isolation/ConfLLVM
+	path = process/ConfLLVM
 	url = https://github.com/TrustedCloud/ConfLLVM.git
 [submodule "intra-process-isolation/endokernel-paper-ver"]
-	path = intra-process-isolation/endokernel-paper-ver
+	path = process/endokernel-paper-ver
 	url = https://github.com/endokernel/endokernel-paper-ver.git
 [submodule "intra-unikernel-isolation/Unishyper"]
-	path = intra-unikernel-isolation/Unishyper
+	path = unikernel/Unishyper
 	url = https://github.com/hky1999/Unishyper.git
