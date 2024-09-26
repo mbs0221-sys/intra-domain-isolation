@@ -121,3 +121,9 @@
 [submodule "intra-kernel-isolation/HAKC"]
 	path = intra-kernel-isolation/HAKC
 	url = https://github.com/mit-ll/HAKC.git
+[submodule "intra-process-isolation/ConfLLVM"]
+	path = intra-process-isolation/ConfLLVM
+	url = https://github.com/TrustedCloud/ConfLLVM.git
+[submodule "intra-process-isolation/endokernel-paper-ver"]
+	path = intra-process-isolation/endokernel-paper-ver
+	url = https://github.com/endokernel/endokernel-paper-ver.git
