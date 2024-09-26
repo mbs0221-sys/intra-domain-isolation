@@ -20,7 +20,7 @@
 	path = intra-process-isolation/libmpk
 	url = https://github.com/sslab-gatech/libmpk.git
 [submodule "iskios"]
-	path = intra-kernel-isolation/iskios
+	path = intra-unikernel-isolation/iskios
 	url = https://github.com/URSec/iskios.git
 [submodule "libhermitMPK"]
 	path = intra-process-isolation/libhermitMPK
@@ -41,7 +41,7 @@
 	path = intra-process-isolation/faastlane
 	url = https://github.com/csl-iisc/faastlane.git
 [submodule "CubicleOS"]
-	path = intra-kernel-isolation/CubicleOS
+	path = intra-unikernel-isolation/CubicleOS
 	url = https://github.com/lsds/CubicleOS.git
 [submodule "xom-switch"]
 	path = intra-process-isolation/xom-switch
@@ -113,7 +113,7 @@
 	path = intra-process-isolation/nodrop
 	url = https://github.com/nodropforsecurity/nodrop.git
 [submodule "asplos22-ae"]
-	path = intra-kernel-isolation/asplos22-ae
+	path = intra-unikernel-isolation/asplos22-ae
 	url = https://github.com/project-flexos/asplos22-ae.git
 [submodule "BULKHEAD"]
 	path = intra-kernel-isolation/BULKHEAD
@@ -127,3 +127,6 @@
 [submodule "intra-process-isolation/endokernel-paper-ver"]
 	path = intra-process-isolation/endokernel-paper-ver
 	url = https://github.com/endokernel/endokernel-paper-ver.git
+[submodule "intra-unikernel-isolation/Unishyper"]
+	path = intra-unikernel-isolation/Unishyper
+	url = https://github.com/hky1999/Unishyper.git
