@@ -23,7 +23,7 @@
 	path = unikernel/iskios
 	url = https://github.com/URSec/iskios.git
 [submodule "libhermitMPK"]
-	path = process/libhermitMPK
+	path = unikernel/libhermitMPK
 	url = https://github.com/ssrg-vt/libhermitMPK.git
 [submodule "The-Cerberus-Project"]
 	path = process/The-Cerberus-Project
@@ -130,3 +130,6 @@
 [submodule "intra-unikernel-isolation/Unishyper"]
 	path = unikernel/Unishyper
 	url = https://github.com/hky1999/Unishyper.git
+[submodule "process/file-system/ctFS"]
+	path = process/file-system/ctFS
+	url = https://github.com/robinlee09201/ctFS
